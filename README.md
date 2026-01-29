@@ -130,11 +130,3 @@ Similarité(A, B) = |Films notés par A ∩ Films notés par B| / |Films notés 
 - Recommandation pour A : The Matrix
 
 
-
----
-
-## 📌 Notes
-
-Projet d'étude de première année (NF06 - Qualité de développement) à l'UTT. L'objectif était de démontrer des concepts de génie logiciel : modularité, persistance des données, algorithmes collaboratifs.
-
-Des améliorations sont certainement possibles. Si tu as des idées, des corrections ou veux contribuer, les PRs sont bienvenues ! 👍
