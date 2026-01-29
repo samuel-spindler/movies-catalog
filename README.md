@@ -1,6 +1,7 @@
 # Gestion de Catalogue de Films
 
-Une application pour gérer un catalogue de films avec système de recommandation. Développée en **Python** (interface graphique) et **C** (algorithme de recommandation).
+J'ai réalisé ce projet en équipe dans le cadre de l'UE NF06 pendant ma deuxième année de classe préparatoire à la formation d'ingénieur.
+Nous avons ainsi développé une application pour gérer un catalogue de films avec système de recommandation en utilisant **Python** pour l'interface graphique et **C** pour l'algorithme de recommandation.
 
 ---
 
@@ -128,5 +129,6 @@ Similarité(A, B) = |Films notés par A ∩ Films notés par B| / |Films notés 
 - Utilisateur B a noté : Avatar (7.5), The Matrix (9), Inception (8)
 - Similarité = 2/4 = 0.5
 - Recommandation pour A : The Matrix
+
 
 
