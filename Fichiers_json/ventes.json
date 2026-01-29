@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2025-01-02 00:18:07",
+        "film": "Terminator",
+        "vendeur": "Samuel",
+        "quantite": 4,
+        "prix_unitaire": 5.0,
+        "revenu_total": 20.0
+    },
+    {
+        "date": "2025-01-02 00:20:50",
+        "film": "Titanic",
+        "vendeur": "Clémence",
+        "quantite": 3,
+        "prix_unitaire": 4.0,
+        "revenu_total": 12.0
+    },
+    {
+        "date": "2025-01-08 08:28:17",
+        "film": "Pulp Fiction",
+        "vendeur": "clémence",
+        "quantite": 1,
+        "prix_unitaire": 11.0,
+        "revenu_total": 11.0
+    },
+    {
+        "date": "2025-01-08 08:32:39",
+        "film": "Star Wars",
+        "vendeur": "Vincent",
+        "quantite": 2,
+        "prix_unitaire": 12.0,
+        "revenu_total": 24.0
+    },
+    {
+        "date": "2025-01-08 08:45:28",
+        "film": "Jurassic Park",
+        "vendeur": "Samuel",
+        "quantite": 1,
+        "prix_unitaire": 10.0,
+        "revenu_total": 10.0
+    },
+    {
+        "date": "2026-01-29 17:02:49",
+        "film": "Star Wars",
+        "vendeur": "Gregory",
+        "quantite": 2,
+        "prix_unitaire": 12.0,
+        "revenu_total": 24.0
+    },
+    {
+        "date": "2026-01-29 17:03:03",
+        "film": "The Shawshank Redemption",
+        "vendeur": "Gregory",
+        "quantite": 1,
+        "prix_unitaire": 15.0,
+        "revenu_total": 15.0
+    }
+]

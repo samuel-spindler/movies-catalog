@@ -1,0 +1,361 @@
+[
+    {
+        "user_id": 1,
+        "username": "Samuel",
+        "notes": {
+            "Terminator": 8.0,
+            "Titanic": 6.0,
+            "Pulp Fiction": 9.0
+        }
+    },
+    {
+        "user_id": 2,
+        "username": "Clémence",
+        "notes": {
+            "Titanic": 9.0,
+            "Gladiator": 10.0
+        }
+    },
+    {
+        "user_id": 3,
+        "username": "Alice",
+        "notes": {
+            "Inception": 8.5,
+            "Avatar": 7.0,
+            "The Matrix": 9.0,
+            "Interstellar": 8.0,
+            "The Godfather": 9.5
+        }
+    },
+    {
+        "user_id": 4,
+        "username": "Bob",
+        "notes": {
+            "The Dark Knight": 9.0,
+            "Pulp Fiction": 8.5,
+            "Fight Club": 8.0,
+            "Forrest Gump": 9.0,
+            "The Shawshank Redemption": 9.5
+        }
+    },
+    {
+        "user_id": 5,
+        "username": "Charlie",
+        "notes": {
+            "The Lord of the Rings": 9.0,
+            "Star Wars": 8.5,
+            "Jurassic Park": 8.0,
+            "The Lion King": 9.0,
+            "Back to the Future": 8.5
+        }
+    },
+    {
+        "user_id": 6,
+        "username": "David",
+        "notes": {
+            "The Avengers": 8.0,
+            "Iron Man": 7.5,
+            "Spider-Man": 8.5,
+            "Black Panther": 8.0,
+            "Guardians of the Galaxy": 8.5
+        }
+    },
+    {
+        "user_id": 7,
+        "username": "Eve",
+        "notes": {
+            "Frozen": 7.5,
+            "Moana": 8.0,
+            "Toy Story": 8.5,
+            "Finding Nemo": 8.0,
+            "Zootopia": 8.5
+        }
+    },
+    {
+        "user_id": 8,
+        "username": "Frank",
+        "notes": {
+            "The Incredibles": 8.0,
+            "Ratatouille": 8.5,
+            "Up": 9.0,
+            "Coco": 8.5,
+            "Inside Out": 8.0
+        }
+    },
+    {
+        "user_id": 9,
+        "username": "Grace",
+        "notes": {
+            "Harry Potter": 9.0,
+            "Fantastic Beasts": 7.5,
+            "The Hunger Games": 8.0,
+            "Twilight": 7.0,
+            "Divergent": 7.5
+        }
+    },
+    {
+        "user_id": 10,
+        "username": "Hank",
+        "notes": {
+            "Mad Max": 8.0,
+            "Blade Runner": 8.5,
+            "The Terminator": 9.0,
+            "Alien": 8.5,
+            "Predator": 8.0
+        }
+    },
+    {
+        "user_id": 11,
+        "username": "Ivy",
+        "notes": {
+            "The Notebook": 8.0,
+            "La La Land": 8.5,
+            "A Star is Born": 8.0,
+            "Titanic": 9.0,
+            "The Fault in Our Stars": 8.5
+        }
+    },
+    {
+        "user_id": 12,
+        "username": "Jack",
+        "notes": {
+            "Jaws": 8.0,
+            "Psycho": 8.5,
+            "The Shining": 9.0,
+            "Get Out": 8.5,
+            "It": 8.0
+        }
+    },
+    {
+        "user_id": 13,
+        "username": "Karen",
+        "notes": {
+            "The Exorcist": 8.0,
+            "A Nightmare on Elm Street": 8.5,
+            "Halloween": 8.0,
+            "Scream": 8.5,
+            "The Conjuring": 8.0
+        }
+    },
+    {
+        "user_id": 14,
+        "username": "Leo",
+        "notes": {
+            "Rocky": 8.0,
+            "Raging Bull": 8.5,
+            "Creed": 8.0,
+            "Million Dollar Baby": 8.5,
+            "The Fighter": 8.0
+        }
+    },
+    {
+        "user_id": 15,
+        "username": "Mona",
+        "notes": {
+            "The Social Network": 8.0,
+            "Steve Jobs": 8.5,
+            "The Imitation Game": 8.0,
+            "The Theory of Everything": 8.5,
+            "A Beautiful Mind": 8.0
+        }
+    },
+    {
+        "user_id": 16,
+        "username": "Nina",
+        "notes": {
+            "The Wolf of Wall Street": 8.0,
+            "Moneyball": 8.5,
+            "The Big Short": 8.0,
+            "Wall Street": 8.5,
+            "Margin Call": 8.0
+        }
+    },
+    {
+        "user_id": 17,
+        "username": "Oscar",
+        "notes": {
+            "The Grand Budapest Hotel": 8.0,
+            "Moonrise Kingdom": 8.5,
+            "The Royal Tenenbaums": 8.0,
+            "Fantastic Mr. Fox": 8.5,
+            "Isle of Dogs": 8.0
+        }
+    },
+    {
+        "user_id": 18,
+        "username": "Paul",
+        "notes": {
+            "The Great Gatsby": 8.0,
+            "Moulin Rouge": 8.5,
+            "Les Misérables": 8.0,
+            "Chicago": 8.5,
+            "West Side Story": 8.0
+        }
+    },
+    {
+        "user_id": 19,
+        "username": "Quincy",
+        "notes": {
+            "The Silence of the Lambs": 8.0,
+            "Se7en": 8.5,
+            "Zodiac": 8.0,
+            "Gone Girl": 8.5,
+            "Prisoners": 8.0
+        }
+    },
+    {
+        "user_id": 20,
+        "username": "Rachel",
+        "notes": {
+            "The Sixth Sense": 8.0,
+            "Unbreakable": 8.5,
+            "Signs": 8.0,
+            "The Village": 8.5,
+            "Split": 8.0
+        }
+    },
+    {
+        "user_id": 21,
+        "username": "Steve",
+        "notes": {
+            "The Godfather": 9.0,
+            "Goodfellas": 8.5,
+            "Scarface": 8.0,
+            "Casino": 8.5,
+            "The Departed": 8.0
+        }
+    },
+    {
+        "user_id": 22,
+        "username": "Tina",
+        "notes": {
+            "The Sound of Music": 8.0,
+            "Mary Poppins": 8.5,
+            "My Fair Lady": 8.0,
+            "The Wizard of Oz": 8.5,
+            "Singin' in the Rain": 8.0
+        }
+    },
+    {
+        "user_id": 23,
+        "username": "Uma",
+        "notes": {
+            "The Godfather": 9.5,
+            "The Dark Knight": 9.0,
+            "Inception": 8.5,
+            "Pulp Fiction": 8.5,
+            "Fight Club": 8.0,
+            "Forrest Gump": 9.0,
+            "The Shawshank Redemption": 9.5
+        }
+    },
+    {
+        "user_id": 24,
+        "username": "Victor",
+        "notes": {
+            "The Lord of the Rings": 9.0,
+            "Star Wars": 8.5,
+            "Jurassic Park": 8.0,
+            "The Lion King": 9.0,
+            "Back to the Future": 8.5,
+            "The Avengers": 8.0,
+            "Iron Man": 7.5,
+            "Spider-Man": 8.5
+        }
+    },
+    {
+        "user_id": 25,
+        "username": "Wendy",
+        "notes": {
+            "Black Panther": 8.0,
+            "Guardians of the Galaxy": 8.5,
+            "Frozen": 7.5,
+            "Moana": 8.0,
+            "Toy Story": 8.5,
+            "Finding Nemo": 8.0,
+            "Zootopia": 8.5,
+            "The Incredibles": 8.0,
+            "Ratatouille": 8.5
+        }
+    },
+    {
+        "user_id": 26,
+        "username": "Xander",
+        "notes": {
+            "Up": 9.0,
+            "Coco": 8.5,
+            "Inside Out": 8.0,
+            "Harry Potter": 9.0,
+            "Fantastic Beasts": 7.5,
+            "The Hunger Games": 8.0,
+            "Twilight": 7.0,
+            "Divergent": 7.5,
+            "Mad Max": 8.0
+        }
+    },
+    {
+        "user_id": 27,
+        "username": "Yara",
+        "notes": {
+            "Blade Runner": 8.5,
+            "The Terminator": 9.0,
+            "Alien": 8.5,
+            "Predator": 8.0,
+            "The Notebook": 8.0,
+            "La La Land": 8.5,
+            "A Star is Born": 8.0,
+            "Titanic": 9.0,
+            "The Fault in Our Stars": 8.5
+        }
+    },
+    {
+        "user_id": 28,
+        "username": "Zane",
+        "notes": {
+            "Jaws": 8.0,
+            "Psycho": 8.5,
+            "The Shining": 9.0,
+            "Get Out": 8.5,
+            "It": 8.0,
+            "The Exorcist": 8.0,
+            "A Nightmare on Elm Street": 8.5,
+            "Halloween": 8.0,
+            "Scream": 8.5,
+            "The Conjuring": 8.0
+        }
+    },
+    {
+        "user_id": 29,
+        "username": "Isabelle",
+        "notes": {
+            "Iron Man": 7.0,
+            "Black Panther": 9.0,
+            "Guardians of the Galaxy": 6.0
+        }
+    },
+    {
+        "user_id": 30,
+        "username": "clémence",
+        "notes": {}
+    },
+    {
+        "user_id": 31,
+        "username": "Vincent",
+        "notes": {
+            "Inception": 2.0
+        }
+    },
+    {
+        "user_id": 32,
+        "username": "TOTO",
+        "notes": {
+            "Terminator": 8.0,
+            "Inception": 7.0
+        }
+    },
+    {
+        "user_id": 33,
+        "username": "Gregory",
+        "notes": {}
+    }
+]
