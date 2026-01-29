@@ -1,0 +1,385 @@
+[
+    {
+        "titre": "The Godfather",
+        "genre": "Crime",
+        "annee": 1972,
+        "cote": 9.5,
+        "notes": {
+            "Alice": 9.5,
+            "Steve": 9.0,
+            "Frank": 9.5,
+            "Grace": 9.0,
+            "Hank": 9.5,
+            "Uma": 9.5
+        },
+        "stock": 3,
+        "prix_unitaire": 10.0
+    },
+    {
+        "titre": "Star Wars",
+        "genre": "Sci-Fi",
+        "annee": 1977,
+        "cote": 8.5,
+        "notes": {
+            "Charlie": 8.5,
+            "David": 8.0,
+            "Eve": 8.5,
+            "Frank": 8.0,
+            "Grace": 8.5,
+            "Victor": 8.5
+        },
+        "stock": 1,
+        "prix_unitaire": 12.0
+    },
+    {
+        "titre": "Terminator",
+        "genre": "Action",
+        "annee": 1984,
+        "cote": 8.333333333333334,
+        "notes": {
+            "Samuel": 8.0,
+            "Hank": 9.0,
+            "TOTO": 8.0
+        },
+        "stock": 4,
+        "prix_unitaire": 7.0
+    },
+    {
+        "titre": "Back to the Future",
+        "genre": "Sci-Fi",
+        "annee": 1985,
+        "cote": 8.5,
+        "notes": {
+            "Charlie": 8.5,
+            "David": 8.0,
+            "Eve": 8.5,
+            "Frank": 8.0,
+            "Grace": 8.5,
+            "Victor": 8.5
+        },
+        "stock": 5,
+        "prix_unitaire": 13.0
+    },
+    {
+        "titre": "The Silence of the Lambs",
+        "genre": "Thriller",
+        "annee": 1991,
+        "cote": 8.6,
+        "notes": {
+            "Samuel": 8.5
+        },
+        "stock": 6,
+        "prix_unitaire": 5.5
+    },
+    {
+        "titre": "Jurassic Park",
+        "genre": "Adventure",
+        "annee": 1993,
+        "cote": 8.0,
+        "notes": {
+            "Charlie": 8.0,
+            "David": 7.5,
+            "Eve": 8.0,
+            "Frank": 7.5,
+            "Grace": 8.0,
+            "Victor": 8.0
+        },
+        "stock": 5,
+        "prix_unitaire": 10.0
+    },
+    {
+        "titre": "The Shawshank Redemption",
+        "genre": "Drama",
+        "annee": 1994,
+        "cote": 9.5,
+        "notes": {
+            "Bob": 9.5,
+            "Charlie": 9.0,
+            "David": 9.5,
+            "Eve": 9.0,
+            "Frank": 9.5,
+            "Uma": 9.5
+        },
+        "stock": 2,
+        "prix_unitaire": 15.0
+    },
+    {
+        "titre": "Forrest Gump",
+        "genre": "Drama",
+        "annee": 1994,
+        "cote": 9.0,
+        "notes": {
+            "Bob": 9.0,
+            "Charlie": 8.5,
+            "David": 9.0,
+            "Eve": 8.5,
+            "Frank": 9.0,
+            "Uma": 9.0
+        },
+        "stock": 4,
+        "prix_unitaire": 14.0
+    },
+    {
+        "titre": "The Lion King",
+        "genre": "Animation",
+        "annee": 1994,
+        "cote": 9.0,
+        "notes": {
+            "Charlie": 9.0,
+            "David": 8.5,
+            "Eve": 9.0,
+            "Frank": 8.5,
+            "Grace": 9.0,
+            "Victor": 9.0
+        },
+        "stock": 4,
+        "prix_unitaire": 14.0
+    },
+    {
+        "titre": "Pulp Fiction",
+        "genre": "Crime",
+        "annee": 1994,
+        "cote": 8.428571428571429,
+        "notes": {
+            "Bob": 8.5,
+            "Charlie": 8.0,
+            "David": 8.5,
+            "Eve": 8.0,
+            "Frank": 8.5,
+            "Uma": 8.5,
+            "Samuel": 9.0
+        },
+        "stock": 3,
+        "prix_unitaire": 11.0
+    },
+    {
+        "titre": "Titanic",
+        "genre": "Romance",
+        "annee": 1997,
+        "cote": 8.0,
+        "notes": {
+            "Clémence": 9.0,
+            "Ivy": 9.0,
+            "Samuel": 6.0
+        },
+        "stock": 5,
+        "prix_unitaire": 8.0
+    },
+    {
+        "titre": "Saving Private Ryan",
+        "genre": "War",
+        "annee": 1998,
+        "cote": 8.6,
+        "notes": {
+            "Samuel": 8.5
+        },
+        "stock": 5,
+        "prix_unitaire": 6.0
+    },
+    {
+        "titre": "The Matrix",
+        "genre": "Sci-Fi",
+        "annee": 1999,
+        "cote": 9.0,
+        "notes": {
+            "Alice": 9.0,
+            "Bob": 8.5,
+            "Charlie": 9.0,
+            "David": 8.5,
+            "Eve": 9.0
+        },
+        "stock": 3,
+        "prix_unitaire": 12.0
+    },
+    {
+        "titre": "Fight Club",
+        "genre": "Drama",
+        "annee": 1999,
+        "cote": 8.0,
+        "notes": {
+            "Bob": 8.0,
+            "Charlie": 8.5,
+            "David": 8.0,
+            "Eve": 8.5,
+            "Frank": 8.0,
+            "Uma": 8.0
+        },
+        "stock": 5,
+        "prix_unitaire": 13.0
+    },
+    {
+        "titre": "Gladiator",
+        "genre": "Action",
+        "annee": 2000,
+        "cote": 9.5,
+        "notes": {
+            "Clémence": 10.0,
+            "Clement": 9.0
+        },
+        "stock": 3,
+        "prix_unitaire": 6.0
+    },
+    {
+        "titre": "The Lord of the Rings",
+        "genre": "Fantasy",
+        "annee": 2001,
+        "cote": 9.0,
+        "notes": {
+            "Charlie": 9.0,
+            "David": 8.5,
+            "Eve": 9.0,
+            "Frank": 8.5,
+            "Grace": 9.0,
+            "Victor": 9.0
+        },
+        "stock": 4,
+        "prix_unitaire": 16.0
+    },
+    {
+        "titre": "Spider-Man",
+        "genre": "Action",
+        "annee": 2002,
+        "cote": 8.5,
+        "notes": {
+            "David": 8.5,
+            "Eve": 8.0,
+            "Frank": 8.5,
+            "Grace": 8.0,
+            "Hank": 8.5,
+            "Victor": 8.5
+        },
+        "stock": 4,
+        "prix_unitaire": 13.0
+    },
+    {
+        "titre": "The Dark Knight",
+        "genre": "Action",
+        "annee": 2008,
+        "cote": 9.0,
+        "notes": {
+            "Bob": 9.0,
+            "Charlie": 8.5,
+            "David": 9.0,
+            "Eve": 8.5,
+            "Frank": 9.0,
+            "Uma": 9.0
+        },
+        "stock": 4,
+        "prix_unitaire": 15.0
+    },
+    {
+        "titre": "Iron Man",
+        "genre": "Action",
+        "annee": 2008,
+        "cote": 7.285714285714286,
+        "notes": {
+            "David": 7.5,
+            "Eve": 7.0,
+            "Frank": 7.5,
+            "Grace": 7.0,
+            "Hank": 7.5,
+            "Victor": 7.5,
+            "Isabelle": 7.0
+        },
+        "stock": 5,
+        "prix_unitaire": 11.0
+    },
+    {
+        "titre": "Avatar",
+        "genre": "Sci-Fi",
+        "annee": 2009,
+        "cote": 7.0,
+        "notes": {
+            "Alice": 7.0,
+            "Charlie": 7.5,
+            "David": 7.0,
+            "Eve": 7.5,
+            "Frank": 7.0
+        },
+        "stock": 6,
+        "prix_unitaire": 10.0
+    },
+    {
+        "titre": "Inception",
+        "genre": "Sci-Fi",
+        "annee": 2010,
+        "cote": 7.4375,
+        "notes": {
+            "Alice": 8.5,
+            "Bob": 9.0,
+            "Charlie": 8.0,
+            "David": 8.5,
+            "Eve": 8.0,
+            "Uma": 8.5,
+            "Vincent": 2.0,
+            "TOTO": 7.0
+        },
+        "stock": 5,
+        "prix_unitaire": 12.0
+    },
+    {
+        "titre": "The Avengers",
+        "genre": "Action",
+        "annee": 2012,
+        "cote": 8.0,
+        "notes": {
+            "David": 8.0,
+            "Eve": 7.5,
+            "Frank": 8.0,
+            "Grace": 7.5,
+            "Hank": 8.0,
+            "Victor": 8.0
+        },
+        "stock": 6,
+        "prix_unitaire": 12.0
+    },
+    {
+        "titre": "Guardians of the Galaxy",
+        "genre": "Action",
+        "annee": 2014,
+        "cote": 8.0,
+        "notes": {
+            "David": 8.5,
+            "Eve": 8.0,
+            "Frank": 8.5,
+            "Grace": 8.0,
+            "Hank": 8.5,
+            "Victor": 8.5,
+            "Isabelle": 6.0
+        },
+        "stock": 4,
+        "prix_unitaire": 15.0
+    },
+    {
+        "titre": "Interstellar",
+        "genre": "Sci-Fi",
+        "annee": 2014,
+        "cote": 8.0,
+        "notes": {
+            "Alice": 8.0,
+            "Bob": 8.5,
+            "Charlie": 8.0,
+            "David": 8.5,
+            "Eve": 8.0
+        },
+        "stock": 5,
+        "prix_unitaire": 14.0
+    },
+    {
+        "titre": "Black Panther",
+        "genre": "Action",
+        "annee": 2018,
+        "cote": 8.0,
+        "notes": {
+            "David": 8.0,
+            "Eve": 7.5,
+            "Frank": 8.0,
+            "Grace": 7.5,
+            "Hank": 8.0,
+            "Victor": 8.0,
+            "Isabelle": 9.0
+        },
+        "stock": 5,
+        "prix_unitaire": 14.0
+    }
+]

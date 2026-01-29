@@ -1,0 +1,10 @@
+{
+  "target": "Gregory",
+  "most_similar_user": "Samuel",
+  "similarity": 0.000,
+  "recommendations": [
+    { "titre":"Terminator" },
+    { "titre":"Titanic" },
+    { "titre":"Pulp Fiction" }
+  ]
+}
